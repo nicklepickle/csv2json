@@ -11,7 +11,7 @@ namespace Csv2Json
     class Converter
     {
         /// <summary>
-        /// Parses a csv file at csvPath and saved the json serialized data to a file at jsonPath
+        /// Parses a csv file at csvPath and saves the json serialized data to a file at jsonPath
         /// </summary>
         /// <param name="csvPath"></param>
         /// <param name="jsonPath"></param>
